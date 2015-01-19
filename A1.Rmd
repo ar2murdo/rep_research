@@ -1,0 +1,11 @@
+Peer Assessment 1
+========================================================
+
+Here I will analyze some interesting data
+
+```{r}
+x <- 1
+x
+```
+
+I will come to regret these changes
